@@ -1,5 +1,7 @@
 # Git教程
 
-- feature-A
-- fix-B
-- feature-C
+````ruby
+feature-A
+fix-B
+feature-C
+````
